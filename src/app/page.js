@@ -67,7 +67,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1 className={`text-center ${gro.className} font-black text-3xl my-7`}>Qusetify</h1>
+      <h1 className={`text-center ${gro.className} font-black text-3xl my-7`}>Questify</h1>
       <Form {...form}>
         <div className='h-[80vh] flex flex-col justify-center items-center'>
           <h3 className={`text-center ${gro.className} font-black text-4xl my-3`} >Join the waitlist for Questify</h3>
